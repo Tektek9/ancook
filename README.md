@@ -13,6 +13,7 @@ python.exe ancook.py -h
 
 Untuk format cookie bisa cek di cookie.json
 
+
 Untuk convert cookie.json/cookie hasil tamper
 ```
 python.exe ancook.py -c cookie.json
