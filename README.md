@@ -1,6 +1,9 @@
 # ancook
 Perform ur acunetix vulnerability scanning with ancook
 
+Salahsatu step dari project freelance, untuk mempersingkat mengcopyan cookie ketika akan melakukan vulnerability scanning dengan menggunakan acunetix
+
+
 Install requirement
 ```
 python.exe install -r requirements.txt
