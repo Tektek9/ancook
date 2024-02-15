@@ -1,0 +1,28 @@
+[
+    {
+        "domain": "xparking.space",
+        "expirationDate": 1701870832.46663,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "XSRF-TOKEN",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "eyJpdiI6ImhZMzNOZTUrZTV1SG9Da01GN3RrU2c9PSIsInZhbHVlIjoialNwemlQU0hFTFpFSHlUTGRIK1U5bWMrdCtONE0venBsTjFEWU9UV1ZVQzlYWjhvckhEdjBOajBjUDdZQWJ2MHVmVU13YTNMdlg5RzVlOXJHaFdDejBxRCtGSk9NZm0rU3B3VzZUZ1pSSG9iOVF4QmNFNEFVd3djMDlzVzNoaGEiLCJtYWMiOiJlMGQ1NTFiZWQ2NTQ4ZTZmOGQ3MDRlYWZjOGQ2ZTgyOGMwMjIyNzMyOGFkYWRkNTE0MTAzZDU1ODRiMWViZDE4IiwidGFnIjoiIn0%3D"
+    },
+    {
+        "domain": "xparking.space",
+        "expirationDate": 1701870832.467286,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "smart_parking_system_session",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "eyJpdiI6IkdRSStuQkFXb1U0b2NaM1J2YTM5eWc9PSIsInZhbHVlIjoiQ3dHMEEwaXdrdk9jbTdTSnBuTkorUUdHdCtYMU1Rd1k5V3RCZmVDSThsTi9QRW55K1RpSHFleVZpTStzZUZuTStxRmtVa0UvN2FYZGJTSGFUdWJFWDcrWnQxTWUrVXcwYjJLOWxUNUNFUzVEUTRNTmxadmVYbDNCSlFvcWFxNEUiLCJtYWMiOiJjZDQ5NDVkNThiMTkxMzE1Zjk3NTI0NjM4YmJkMjZlOWM2ZmQ2OWY2NzA3ZDNlMDk1MGQzNTQ1MGY0MzY4ZjJmIiwidGFnIjoiIn0%3D"
+    }
+]
