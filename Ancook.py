@@ -40,7 +40,7 @@ if __name__ == "__main__":
     elif len(yuhu) < 3:
         acukie.logo()
         print("Silahkan masukan nama file cookie.json\n  Untuk bantuan python.exe Ancook.py -h/--help\n")
-    elif len(yuhu) < 4 and (str(yuhu[1]) == "-c" or str(yuhu[1]) == "--convert"):
+    elif len(yuhu) < 4 and (str(yuhu[1]) == "-c" or str(yuhu[1]) == "--convert") and ".json" in str(yuhu[2]):
         lapo = acukie(yuhu)
         lapo.proses()
 else:
